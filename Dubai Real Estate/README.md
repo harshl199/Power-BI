@@ -52,12 +52,3 @@ Analyzes how property age affects listing availability and price distribution.
 - Most properties fall between the **AED 100K–300K** price range.  
 - Larger properties (above **2,000 sq ft**) are mostly found in **High-End** listings.
 
----
-
-## Future Improvements
-
-- Add **time-based trends** if sales data becomes available.
-- Integrate **geospatial maps** for better visual location insights.
-- Include **rental data** alongside sales for dual-market analysis.
-
----
