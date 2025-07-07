@@ -38,9 +38,3 @@ A visual comparison of **average price** and **number of reviews** between **Bus
 3. The most available listings are found in the **Central Business District**.  
 4. **Entire Rental Units** make up the largest portion of listings at **40.77%**.
 
----
-
-## License
-
-This project is for educational and portfolio use only.
-
