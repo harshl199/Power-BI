@@ -21,9 +21,11 @@ Key Features :-
   A chart showing the difference in average price and number of reviews between Business and Individual hosts.
 
 Tools :-
+
 Power BI  – for creating and publishing the dashboard and cleaning the dataset.
 
 Insights  :-
+
 1 Freret has the highest average price among the neighborhoods analyzed.
 
 2 Business hosts charge significantly more on average ($310.94) compared to Individual hosts ($244.39).
